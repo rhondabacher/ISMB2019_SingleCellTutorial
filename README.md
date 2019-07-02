@@ -6,7 +6,7 @@ interested in cutting-edge developments of single-cell research, including both 
 
 All tutorial material and extra links are provided here.
 
-##### Course instructors (equal contributors; alphabetical order):
+#### Course instructors (equal contributors; alphabetical order):
 
 Rhonda Bacher, University of Florida, rbacher@ufl.edu
 
