@@ -14,7 +14,7 @@ Yuchao Jiang, University of North Carolina-Chapel Hill, yuchaoj@email.unc.edu
 
 Jingshu Wang, University of Pennsylvania, jingshuw@upenn.edu
 
-Please contact any of us regarding any comments or questions.
+Please contact any of us regarding comments or questions.
 
 -------------------
 
