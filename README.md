@@ -44,12 +44,12 @@ Destin: Toolkit for single-cell analysis of chromatin accessibility ([paper](htt
 
 #### Single-cell multimodal alignment
 
-PECA: Modeling gene regulation from paired expression and chromatin accessibility data ([paper](https://www.pnas.org/content/114/25/E4914),[software](http://web.stanford.edu/~zduren/PECA/))
+* PECA: Modeling gene regulation from paired expression and chromatin accessibility data ([paper](https://www.pnas.org/content/114/25/E4914),[software](http://web.stanford.edu/~zduren/PECA/))
 
-MATCHER: Manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics
+* MATCHER: Manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics
 ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1269-0),[software](https://github.com/jw156605/MATCHER))
 
-CCA (Seurat): Comprehensive Integration of Single-Cell Data ([paper](https://www.sciencedirect.com/science/article/pii/S0092867419305598?via%3Dihub),[software](https://satijalab.org/seurat/))
+* CCA (Seurat): Comprehensive Integration of Single-Cell Data ([paper](https://www.sciencedirect.com/science/article/pii/S0092867419305598?via%3Dihub),[software](https://satijalab.org/seurat/))
 
 #### Single-cell cancer genomics
 
