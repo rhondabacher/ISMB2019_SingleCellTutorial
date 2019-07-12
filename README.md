@@ -12,7 +12,7 @@ Rhonda Bacher, University of Florida, rbacher@ufl.edu
 
 Yuchao Jiang, University of North Carolina-Chapel Hill, yuchaoj@email.unc.edu
 
-Jingshu Wang, University of Pennsylvania, jingshuw@upenn.edu
+Jingshu Wang, University of Chicago, wangjingshususan@gmail.com
 
 Please contact any of us regarding comments or questions.
 
