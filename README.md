@@ -34,6 +34,8 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 ### List of Methods
 
+SCRAT: Single-cell regulome data analysis ([paper](https://academic.oup.com/bioinformatics/article/33/18/2930/3823309), [Software](https://github.com/zji90/SCRAT))
+
 Ji, Zhicheng, Weiqiang Zhou, and Hongkai Ji. "Single-cell regulome data analysis by SCRAT." Bioinformatics 33.18 (2017): 2930-2932.
 
 Zamanighomi, Mahdi, et al. "Unsupervised clustering and epigenetic classification of single cells." Nature communications 9.1 (2018): 2410.
