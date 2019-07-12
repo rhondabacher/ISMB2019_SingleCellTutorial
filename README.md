@@ -58,6 +58,18 @@ Haghverdi, Laleh, et al. "Batch effects in single-cell RNA-sequencing data are c
 
 #### Single-cell cancer genomics
 
+Jiang, Yuchao, et al. "Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing." Proceedings of the National Academy of Sciences 113.37 (2016): E5528-E5537.
+
+Urrutia, Eugene, et al. "Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny." Bioinformatics34.12 (2018): 2126-2128.
+
+Tirosh, Itay, et al. "Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma." Nature539.7628 (2016): 309.
+
+Fan, Jean, et al. "Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data." Genome research 28.8 (2018): 1217-1227.
+
+McCarthy, Davis James, et al. "Cardelino: Integrating whole exomes and single-cell transcriptomes to reveal phenotypic impact of somatic variants." bioRxiv (2018): 413047.
+
+Wang, Rujin, Dan-Yu Lin, and Yuchao Jiang. "SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing." bioRxiv (2019): 594267.
+
 
 ### Other Resources
 
