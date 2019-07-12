@@ -38,9 +38,9 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 SCRAT: Single-cell regulome data analysis ([paper](https://academic.oup.com/bioinformatics/article/33/18/2930/3823309), [software](https://github.com/zji90/SCRAT))
 
-Zamanighomi, Mahdi, et al. "Unsupervised clustering and epigenetic classification of single cells." Nature communications 9.1 (2018): 2410.
+scABC: Unsupervised clustering and epigenetic classification of single cells ([paper](https://www.nature.com/articles/s41467-018-04629-3),[software](https://github.com/SUwonglab/scABC))
 
-Urrutia, Eugene, et al. "Destin: toolkit for single-cell analysis of chromatin accessibility." Bioinformatics, btz141 (2019).
+Destin: Toolkit for single-cell analysis of chromatin accessibility ([paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz141/5367832),[software](https://github.com/urrutiag/destin))
 
 #### Single-cell multimodal alignment
 
