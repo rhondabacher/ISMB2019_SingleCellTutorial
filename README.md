@@ -28,19 +28,19 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 ### Slides
 
-[Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
+* [Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
 
-[Single-Cell Cancer Genomics](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/6_cancer_genomics.pdf)
+* [Single-Cell Cancer Genomics](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/6_cancer_genomics.pdf)
 
 ### List of Methods
 
 #### Single-cell epigenomics
 
-SCRAT: Single-cell regulome data analysis ([paper](https://academic.oup.com/bioinformatics/article/33/18/2930/3823309), [software](https://github.com/zji90/SCRAT))
+* SCRAT: Single-cell regulome data analysis ([paper](https://academic.oup.com/bioinformatics/article/33/18/2930/3823309), [software](https://github.com/zji90/SCRAT))
 
-scABC: Unsupervised clustering and epigenetic classification of single cells ([paper](https://www.nature.com/articles/s41467-018-04629-3),[software](https://github.com/SUwonglab/scABC))
+* scABC: Unsupervised clustering and epigenetic classification of single cells ([paper](https://www.nature.com/articles/s41467-018-04629-3),[software](https://github.com/SUwonglab/scABC))
 
-Destin: Toolkit for single-cell analysis of chromatin accessibility ([paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz141/5367832),[software](https://github.com/urrutiag/destin))
+* Destin: Toolkit for single-cell analysis of chromatin accessibility ([paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz141/5367832),[software](https://github.com/urrutiag/destin))
 
 #### Single-cell multimodal alignment
 
@@ -53,35 +53,38 @@ Destin: Toolkit for single-cell analysis of chromatin accessibility ([paper](htt
 
 #### Single-cell cancer genomics
 
-Canopy: Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing ([paper](https://www.pnas.org/content/113/37/E5528),[software](https://github.com/yuchaojiang/Canopy))
+* Canopy: Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing ([paper](https://www.pnas.org/content/113/37/E5528),[software](https://github.com/yuchaojiang/Canopy))
 
-MARATHON: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([paper](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [software](https://github.com/yuchaojiang/MARATHON))
+* MARATHON: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([paper](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [software](https://github.com/yuchaojiang/MARATHON))
 
-InferCNV: Inferring CNV from Single-Cell RNA-Seq ([paper](https://science.sciencemag.org/content/344/6190/1396.long), [software](https://github.com/broadinstitute/infercnv))
+* InferCNV: Inferring CNV from Single-Cell RNA-Seq ([paper](https://science.sciencemag.org/content/344/6190/1396.long), [software](https://github.com/broadinstitute/infercnv))
 
-HoneyBADGER: Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data ([paper](https://genome.cshlp.org/content/early/2018/06/13/gr.228080.117), [software](https://github.com/JEFworks/HoneyBADGER))
+* HoneyBADGER: Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data ([paper](https://genome.cshlp.org/content/early/2018/06/13/gr.228080.117), [software](https://github.com/JEFworks/HoneyBADGER))
 
-Cardelino: Integrating whole exomes and single-cell transcriptomes to reveal phenotypic impact of somatic variants ([paper](https://www.biorxiv.org/content/10.1101/413047v2), [software](https://github.com/PMBio/cardelino))
+* Cardelino: Integrating whole exomes and single-cell transcriptomes to reveal phenotypic impact of somatic variants ([paper](https://www.biorxiv.org/content/10.1101/413047v2), [software](https://github.com/PMBio/cardelino))
 
-SCOPE: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/594267v1), [software](https://github.com/rujinwang/SCOPE))
+* SCOPE: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/594267v1), [software](https://github.com/rujinwang/SCOPE))
 
 
 ### Other Resources
 
-Analysis of single cell RNA-seq data: https://hemberg-lab.github.io/scRNA.seq.course
+#### Tutorials and workflows
+* Analysis of single cell RNA-seq data: https://hemberg-lab.github.io/scRNA.seq.course
 
-Awesome single cell: https://github.com/seandavi/awesome-single-cell
+* Awesome single cell: https://github.com/seandavi/awesome-single-cell
 
-simpleSingleCell: http://bioconductor.org/packages/simpleSingleCell
+* simpleSingleCell: http://bioconductor.org/packages/simpleSingleCell
 
-10X Genomics single-cell expression: https://support.10xgenomics.com/single-cell-gene-expression/datasets
 
-Single Cell Portal: https://portals.broadinstitute.org/single_cell
+#### Datasets
+* 10X Genomics single-cell expression: https://support.10xgenomics.com/single-cell-gene-expression/datasets
 
-Single Cell Expression Atlas: https://www.ebi.ac.uk/gxa/sc
+* Single Cell Portal: https://portals.broadinstitute.org/single_cell
 
-conquer: http://imlspenticton.uzh.ch:3838/conquer
+* Single Cell Expression Atlas: https://www.ebi.ac.uk/gxa/sc
 
-Human Cell Atlas: https://www.humancellatlas.org/
+* conquer: http://imlspenticton.uzh.ch:3838/conquer
 
-Mouse Cell Atlas: http://bis.zju.edu.cn/MCA 
+* Human Cell Atlas: https://www.humancellatlas.org/
+
+* Mouse Cell Atlas: http://bis.zju.edu.cn/MCA 
