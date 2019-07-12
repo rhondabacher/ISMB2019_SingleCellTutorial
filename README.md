@@ -29,5 +29,25 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 ### Slides
 
 
-### List of Methods and Softwares
+### List of Methods
 
+
+### Other Resources
+
+Analysis of single cell RNA-seq data: https://hemberg-lab.github.io/scRNA.seq.course
+
+Awesome single cell: https://github.com/seandavi/awesome-single-cell
+
+simpleSingleCell: http://bioconductor.org/packages/simpleSingleCell
+
+10X Genomics single-cell expression: https://support.10xgenomics.com/single-cell-gene-expression/datasets
+
+Single Cell Portal: https://portals.broadinstitute.org/single_cell
+
+Single Cell Expression Atlas: https://www.ebi.ac.uk/gxa/sc
+
+conquer: http://imlspenticton.uzh.ch:3838/conquer
+
+Human Cell Atlas: https://www.humancellatlas.org/
+
+Mouse Cell Atlas: http://bis.zju.edu.cn/MCA 
