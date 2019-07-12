@@ -28,6 +28,9 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 ### Slides
 
+[Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
+
+[Single-Cell Cancer Genomics](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/6_cancer_genomics.pdf)
 
 ### List of Methods
 
