@@ -59,11 +59,11 @@ MARATHON: Integrative pipeline for profiling DNA copy number and inferring tumor
 
 InferCNV: Inferring CNV from Single-Cell RNA-Seq ([paper](https://science.sciencemag.org/content/344/6190/1396.long), [software](https://github.com/broadinstitute/infercnv))
 
-Fan, Jean, et al. "Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data." Genome research 28.8 (2018): 1217-1227.
+HoneyBADGER: Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data ([paper](https://genome.cshlp.org/content/early/2018/06/13/gr.228080.117), [software](https://github.com/JEFworks/HoneyBADGER))
 
-McCarthy, Davis James, et al. "Cardelino: Integrating whole exomes and single-cell transcriptomes to reveal phenotypic impact of somatic variants." bioRxiv (2018): 413047.
+Cardelino: Integrating whole exomes and single-cell transcriptomes to reveal phenotypic impact of somatic variants ([paper](https://www.biorxiv.org/content/10.1101/413047v2), [software](https://github.com/PMBio/cardelino))
 
-Wang, Rujin, Dan-Yu Lin, and Yuchao Jiang. "SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing." bioRxiv (2019): 594267.
+SCOPE: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/594267v1), [software](https://github.com/rujinwang/SCOPE))
 
 
 ### Other Resources
