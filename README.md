@@ -44,25 +44,20 @@ Destin: Toolkit for single-cell analysis of chromatin accessibility ([paper](htt
 
 #### Single-cell multimodal alignment
 
-Duren, Zhana, et al. "Modeling gene regulation from paired expression and chromatin accessibility data." Proceedings of the National Academy of Sciences 114.25 (2017): E4914-E4923.
+PECA: Modeling gene regulation from paired expression and chromatin accessibility data ([paper](https://www.pnas.org/content/114/25/E4914),[software](http://web.stanford.edu/~zduren/PECA/))
 
-Welch, Joshua D., Alexander J. Hartemink, and Jan F. Prins. "MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics." Genome biology 18.1 (2017): 138.
+MATCHER: Manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics
+([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1269-0),[software](https://github.com/jw156605/MATCHER))
 
-Stuart, Tim, et al. "Comprehensive Integration of Single-Cell Data." Cell (2019).
-
-Butler, Andrew, et al. "Integrating single-cell transcriptomic data across different conditions, technologies, and species." Nature biotechnology 36.5 (2018): 411.
-
-Zhou, Weiqiang, Zhicheng Ji, and Hongkai Ji. "Global prediction of chromatin accessibility using RNA-seq from small number of cells." bioRxiv (2016): 035816.
-
-Haghverdi, Laleh, et al. "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors." Nature biotechnology 36.5 (2018): 421.
+CCA (Seurat): Comprehensive Integration of Single-Cell Data ([paper](https://www.sciencedirect.com/science/article/pii/S0092867419305598?via%3Dihub),[software](https://satijalab.org/seurat/))
 
 #### Single-cell cancer genomics
 
-Jiang, Yuchao, et al. "Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing." Proceedings of the National Academy of Sciences 113.37 (2016): E5528-E5537.
+Canopy: Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing ([paper](https://www.pnas.org/content/113/37/E5528),[software](https://github.com/yuchaojiang/Canopy))
 
-Urrutia, Eugene, et al. "Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny." Bioinformatics34.12 (2018): 2126-2128.
+MARATHON: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([paper](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [software](https://github.com/yuchaojiang/MARATHON))
 
-Tirosh, Itay, et al. "Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma." Nature539.7628 (2016): 309.
+InferCNV: Inferring CNV from Single-Cell RNA-Seq ([paper](https://science.sciencemag.org/content/344/6190/1396.long), [software](https://github.com/broadinstitute/infercnv))
 
 Fan, Jean, et al. "Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data." Genome research 28.8 (2018): 1217-1227.
 
