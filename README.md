@@ -34,13 +34,15 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 ### List of Methods
 
-SCRAT: Single-cell regulome data analysis ([paper](https://academic.oup.com/bioinformatics/article/33/18/2930/3823309), [Software](https://github.com/zji90/SCRAT))
+#### Single-cell epigenomics
 
-Ji, Zhicheng, Weiqiang Zhou, and Hongkai Ji. "Single-cell regulome data analysis by SCRAT." Bioinformatics 33.18 (2017): 2930-2932.
+SCRAT: Single-cell regulome data analysis ([paper](https://academic.oup.com/bioinformatics/article/33/18/2930/3823309), [software](https://github.com/zji90/SCRAT))
 
 Zamanighomi, Mahdi, et al. "Unsupervised clustering and epigenetic classification of single cells." Nature communications 9.1 (2018): 2410.
 
 Urrutia, Eugene, et al. "Destin: toolkit for single-cell analysis of chromatin accessibility." Bioinformatics, btz141 (2019).
+
+#### Single-cell multimodal alignment
 
 Duren, Zhana, et al. "Modeling gene regulation from paired expression and chromatin accessibility data." Proceedings of the National Academy of Sciences 114.25 (2017): E4914-E4923.
 
@@ -53,6 +55,8 @@ Butler, Andrew, et al. "Integrating single-cell transcriptomic data across diffe
 Zhou, Weiqiang, Zhicheng Ji, and Hongkai Ji. "Global prediction of chromatin accessibility using RNA-seq from small number of cells." bioRxiv (2016): 035816.
 
 Haghverdi, Laleh, et al. "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors." Nature biotechnology 36.5 (2018): 421.
+
+#### Single-cell cancer genomics
 
 
 ### Other Resources
