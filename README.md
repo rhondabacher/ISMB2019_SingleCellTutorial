@@ -66,9 +66,9 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 * SCOPE: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/594267v1), [software](https://github.com/rujinwang/SCOPE))
 
 
-### Other Resources
+### Resources
 
-#### Tutorials and workflows
+#### Other tutorials and workflows
 * Analysis of single cell RNA-seq data: https://hemberg-lab.github.io/scRNA.seq.course
 
 * Awesome single cell: https://github.com/seandavi/awesome-single-cell
@@ -77,7 +77,7 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 
 #### Datasets
-* 10X Genomics single-cell expression: https://support.10xgenomics.com/single-cell-gene-expression/datasets
+* 10X Genomics: https://support.10xgenomics.com
 
 * Single Cell Portal: https://portals.broadinstitute.org/single_cell
 
