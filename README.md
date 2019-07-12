@@ -34,6 +34,24 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 ### List of Methods
 
+Ji, Zhicheng, Weiqiang Zhou, and Hongkai Ji. "Single-cell regulome data analysis by SCRAT." Bioinformatics 33.18 (2017): 2930-2932.
+
+Zamanighomi, Mahdi, et al. "Unsupervised clustering and epigenetic classification of single cells." Nature communications 9.1 (2018): 2410.
+
+Urrutia, Eugene, et al. "Destin: toolkit for single-cell analysis of chromatin accessibility." Bioinformatics, btz141 (2019).
+
+Duren, Zhana, et al. "Modeling gene regulation from paired expression and chromatin accessibility data." Proceedings of the National Academy of Sciences 114.25 (2017): E4914-E4923.
+
+Welch, Joshua D., Alexander J. Hartemink, and Jan F. Prins. "MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics." Genome biology 18.1 (2017): 138.
+
+Stuart, Tim, et al. "Comprehensive Integration of Single-Cell Data." Cell (2019).
+
+Butler, Andrew, et al. "Integrating single-cell transcriptomic data across different conditions, technologies, and species." Nature biotechnology 36.5 (2018): 411.
+
+Zhou, Weiqiang, Zhicheng Ji, and Hongkai Ji. "Global prediction of chromatin accessibility using RNA-seq from small number of cells." bioRxiv (2016): 035816.
+
+Haghverdi, Laleh, et al. "Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors." Nature biotechnology 36.5 (2018): 421.
+
 
 ### Other Resources
 
