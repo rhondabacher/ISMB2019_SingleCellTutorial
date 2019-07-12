@@ -4,7 +4,7 @@ This tutorial is focused on advanced statistical and computational methods that 
 single-cell omics data. It is intended for an audience with genomics/computational background, who are
 interested in cutting-edge developments of single-cell research, including both method development and application. 
 
-All tutorial material and extra links are provided here.
+All tutorial material and extra links are provided here. Schedule of the tutorial is available [here](https://www.iscb.org/ismbeccb2019-program/tutorials#am2). Slides are available [here](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/tree/master/slides).
 
 #### Course instructors (equal contributors; alphabetical order):
 
