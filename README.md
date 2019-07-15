@@ -28,11 +28,99 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 ### Slides
 
+* [Introduction to Single-Cell RNA-seq and Pre-processing](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/1_introduction.pdf)
+
+* [Single-Cell Trajectory Inference](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/mast
+er/slides/3_pseudotime.pdf)
+
+* [Single-Cell Immune Profiling](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/4_immunology.pdf)
+
+* [Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
+
 * [Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
 
 * [Single-Cell Cancer Genomics](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/6_cancer_genomics.pdf)
 
 ### List of Methods
+
+
+#### Single-cell quality control
+
+* scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R ([paper](https://www.ncbi.nlm.nih.gov/pubmed/28088763), [software](http://bioconductor.org/packages/release/bioc/html/scater.html))
+
+
+#### Single-cell normalization
+
+* SCnorm: robust normalization of single-cell RNA-seq data ([paper](https://www.ncbi.nlm.nih.gov/pubmed/28418000), [software](https://bioconductor.org/packages/release/bioc/html/SCnorm.html))
+
+* scran: Pooling across cells to normalize single-cell RNA sequencing data with many zero counts ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0947-7), [software](http://bioconductor.org/packages/release/bioc/html/scran.html))
+
+* scTransform: Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression ([paper](https://www.biorxiv.org/content/10.1101/576827v1), [software](https://github.com/ChristophH/sctransform))
+
+
+#### Single-cell batch correction
+
+* mnnCorrect: Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors ([paper](https://www.ncbi.nlm.nih.gov/pubmed/29608177), [software](http://bioconductor.org/packages/release/bioc/html/scran.html))
+
+
+#### Single-cell pseudotime
+
+* Full list at: [https://github.com/agitter/single-cell-pseudotime](https://github.com/agitter/single-cell-pseudotime)
+
+* TSCAN: Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis ([paper](https://www.ncbi.nlm.nih.gov/pubmed/27179027), [software](https://github.com/zji90/TSCAN))
+
+* Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics ([paper](https://www.ncbi.nlm.nih.gov/pubmed/29914354), [software](https://bioconductor.org/packages/release/bioc/html/slingshot.html))
+
+* Monocle2/3: Reversed graph embedding resolves complex single-cell trajectories ([paper](https://www.ncbi.nlm.nih.gov/pubmed/28825705), [software](https://github.com/cole-trapnell-lab/monocle-release))
+
+* Benchmarking: [Saelens et al., “A comparison of single-cell trajectory inference methods”. Nature Biotechnology. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/30936559)
+
+
+#### Single-cell clustering
+
+* SINCERA: A Pipeline for Single-Cell RNA-Seq Profiling Analysis ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004575), [software](https://github.com/xu-lab/SINCERA))
+
+* pcaReduce: hierarchical clustering of single cell transcriptional profiles ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0984-y), [software](https://github.com/JustinaZ/pcaReduce))
+
+* CIDR: Ultrafast and accurate clustering through imputation for single-cell RNA-seq data ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1188-0), [software](https://github.com/VCCRI/CIDR))
+
+* SNN-Cliq: Identification of cell types from single-cell transcriptomes using a novel clustering method. ([paper](https://www.ncbi.nlm.nih.gov/pubmed/25805722), [software](https://github.com/BIOINSu/SNN-Cliq))
+
+* SOUP: Semisoft clustering of single-cell data ([paper](https://www.pnas.org/content/116/2/466), [software](https://github.com/lingxuez/SOUPR))
+
+* SC3: consensus clustering of single-cell RNA-seq data ([paper](https://www.nature.com/articles/nmeth.4236), [software](https://bioconductor.org/packages/release/bioc/html/SC3.html))
+
+
+
+#### Single-cell differential features
+
+* SCDE: Bayesian approach to single-cell differential expression analysis ([paper](https://www.nature.com/articles/nmeth.2967), [software](http://bioconductor.org/packages/release/bioc/html/scde.html))
+
+* MAST: a flexible statistical framework for assessing transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing data ([paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4676162/), [software](http://bioconductor.org/packages/release/bioc/html/MAST.html))
+
+* BASiCS: Bayesian Analysis of Single-Cell Sequencing Data ([paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004333), [software](https://bioconductor.org/packages/release/bioc/html/BASiCS.html))
+
+* DECENT: differential expression with capture efficiency adjustmeNT for single-cell RNA-seq data ([paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz453/5514046), [software](https://github.com/cz-ye/DECENT))
+
+* scDD: A statistical approach for identifying differential distributions in single-cell RNA-seq experiments ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y), [software](https://bioconductor.org/packages/release/bioc/html/scDD.html))
+
+* DESCEND: Gene expression distribution deconvolution in single-cell RNA sequencing ([paper](https://www.pnas.org/content/115/28/E6437), [software](https://github.com/jingshuw/descend))
+
+
+#### Single-cell classification
+
+* SingleCellNet: a computational tool to classify single cell RNA-Seq data across platforms and across species ([paper](https://www.biorxiv.org/content/10.1101/508085v1), [software](https://github.com/pcahan1/singleCellNet/))
+
+* ACTINN: Automated identification of Cell Types in Single Cell RNA Sequencing ([paper](https://www.biorxiv.org/content/10.1101/532093v1), [software](https://github.com/mafeiyang/ACTINN))
+
+
+#### Single-cell immune profiling
+
+* TraCeR: T cell fate and clonality inference from single-cell transcriptomes ([paper](https://www.nature.com/articles/nmeth.3800),[software](https://github.com/Teichlab/tracer))
+
+* VDJPuzzle: B-cell receptor reconstruction from single-cell RNA-seq ([paper](https://www.ncbi.nlm.nih.gov/pubmed/29659703),[software](https://bitbucket.org/kirbyvisp/vdjpuzzle2))
+
+
 
 #### Single-cell epigenomics
 
@@ -66,6 +154,7 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 * SCOPE: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/594267v1), [software](https://github.com/rujinwang/SCOPE))
 
 
+
 ### Resources
 
 #### Other tutorials and workflows
@@ -88,3 +177,14 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 * Human Cell Atlas: https://www.humancellatlas.org/
 
 * Mouse Cell Atlas: http://bis.zju.edu.cn/MCA 
+
+* JingleBells: http://jinglebells.bgu.ac.il
+
+* scQuery: https://scquery.cs.cmu.edu/processed_data/
+
+#### Specific reviews
+
+* Cancer: [Baslan, T., & Hicks, J. (2017). Unravelling biology and shifting paradigms in cancer with single-cell sequencing. Nature Reviews Cancer, 17(9), 557.](https://www.ncbi.nlm.nih.gov/pubmed/28835719)
+* Immunology: [Papalexi, E., & Satija, R. (2018). Single-cell RNA sequencing to explore immune cell heterogeneity. Nature Reviews Immunology, 18(1), 35.](https://www.ncbi.nlm.nih.gov/pubmed/28787399)
+* Technology: [Kolodziejczyk, A. A., Kim, J. K., Svensson, V., Marioni, J. C., & Teichmann, S. A. (2015). The technology and biology of single-cell RNA sequencing. Molecular cell, 58(4), 610-620.](https://www.ncbi.nlm.nih.gov/pubmed/26000846)
+* Design and Methods Overview: [Bacher, R., & Kendziorski, C. (2016). Design and computational analysis of single-cell RNA-sequencing experiments. Genome biology, 17(1), 63.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4823857/)
