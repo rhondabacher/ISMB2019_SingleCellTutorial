@@ -30,8 +30,7 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 * [Introduction to Single-Cell RNA-seq and Pre-processing](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/1_introduction.pdf)
 
-* [Single-Cell Trajectory Inference](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/mast
-er/slides/3_pseudotime.pdf)
+* [Single-Cell Trajectory Inference](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/3_pseudotime.pdf)
 
 * [Single-Cell Immune Profiling](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/4_immunology.pdf)
 
