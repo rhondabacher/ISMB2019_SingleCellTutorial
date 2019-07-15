@@ -30,11 +30,11 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 * [Introduction to Single-Cell RNA-seq and Pre-processing](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/1_introduction.pdf)
 
+* [Single-Cell Visualization, Alignment, and Denoising](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/2_visualization_alignment_denoising.pdf)
+
 * [Single-Cell Trajectory Inference](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/3_pseudotime.pdf)
 
 * [Single-Cell Immune Profiling](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/4_immunology.pdf)
-
-* [Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
 
 * [Single-Cell ATAC-Seq and Multimodal Alignment](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial/blob/master/slides/5_multimodal_alignment.pdf)
 
