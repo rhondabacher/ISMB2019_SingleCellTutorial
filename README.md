@@ -56,10 +56,37 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 * scTransform: Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression ([paper](https://www.biorxiv.org/content/10.1101/576827v1), [software](https://github.com/ChristophH/sctransform))
 
+#### Single-cell visualization
+
+* t-SNE: t-Distributed Stochastic Neighbor Embedding ([paper](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf))
+
+* UMAP: Uniform Manifold Approximation and Projection ([paper](https://arxiv.org/pdf/1802.03426.pdf))
+[software](https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html)
+
 
 #### Single-cell batch correction
 
 * mnnCorrect: Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors ([paper](https://www.ncbi.nlm.nih.gov/pubmed/29608177), [software](http://bioconductor.org/packages/release/bioc/html/scran.html))
+
+* multiCCA: ([paper1](https://www.ncbi.nlm.nih.gov/pubmed/29608179), [paper2](https://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf), [software](https://satijalab.org/seurat/v3.0/pancreas_integration_label_transfer.html))
+
+
+#### Denoising
+* SAVER: gene expression recovery for single-cell RNA sequencing ([paper](https://www.nature.com/articles/s41592-018-0033-z), [software](https://github.com/mohuangx/SAVER))
+
+* DCA: Single-cell RNA-seq denoising using a deep count autoencoder ([paper](https://www.nature.com/articles/s41467-018-07931-2), [software](https://github.com/theislab/dca))
+
+* scVI: Deep generative modeling for single-cell transcriptomics ([paper](https://www.nature.com/articles/s41592-018-0229-2), [software](https://github.com/YosefLab/scVI))
+
+* SAVER-X: Transfer learning in single-cell transcriptomics improves data denoising and pattern discovery ([paper](https://www.biorxiv.org/content/10.1101/457879v2), [software](https://github.com/jingshuw/SAVERX))
+
+
+#### Transfer learning
+* SAVER-X: see above
+
+* scGen: Generative modeling and latent space arithmetics predict single-cell perturbation response across cell types, studies and species ([paper](https://www.biorxiv.org/content/10.1101/478503v1), [software](https://github.com/theislab/scgen))
+
+* cTP-net: Surface protein imputation from single cell transcriptomes by deep neural networks ([paper](https://www.biorxiv.org/content/10.1101/671180v1.full), [software](https://github.com/zhouzilu/cTPnet))
 
 
 #### Single-cell pseudotime
