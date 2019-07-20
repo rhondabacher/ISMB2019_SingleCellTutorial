@@ -101,6 +101,7 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 * Benchmarking: [Saelens et al., “A comparison of single-cell trajectory inference methods”. Nature Biotechnology. 2019.](https://www.ncbi.nlm.nih.gov/pubmed/30936559)
 
+* Dynamics with Trendy: segmented regression analysis of expression dynamics in high-throughput ordered profiling experiments ([paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2405-x), [software](https://bioconductor.org/packages/release/bioc/html/Trendy.html))
 
 #### Single-cell clustering
 
