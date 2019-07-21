@@ -180,6 +180,9 @@ https://goo.gl/forms/0sR1kfVO6nj4X8bO2
 
 * SCOPE: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/594267v1), [software](https://github.com/rujinwang/SCOPE))
 
+* SCALE: Modeling allele-specific gene expression by single-cell RNA sequencing ([paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8), [software](https://github.com/yuchaojiang/SCALE))
+
+* Dendro: A normalization and copy number estimation method for single-cell DNA sequencing ([paper](https://www.biorxiv.org/content/10.1101/457622v1), [software](	https://github.com/zhouzilu/DENDRO))
 
 
 ### Resources
